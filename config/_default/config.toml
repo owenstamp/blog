@@ -16,7 +16,11 @@ DefaultContentLanguage = "en"
 # config/_default/menus/menu.xx.toml
 
 author.name = "Owen Stamp"
+author = "Owen Stamp"
+description = "Welcome to my blog."
 introDescription = "The blog of me"
+
+defaultFooterLogo = "https://owenstamp.com/play_store_512.png"
 
 
 [taxonomies]
