@@ -2,3 +2,4 @@ baseURL = "https://blog.owenstamp.com"
 languageCode = "en-uk"
 title = "Owen Stamp Blog"
 enableRobotsTXT = true
+publishDir = "public"
