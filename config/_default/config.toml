@@ -7,13 +7,17 @@ copyright = "Copyright © 2016-2022 Owen Stamp"
 paginate = 10
 theme = "hugo-clarity"
 disqusShortname = ""
-
+logo = "https://owenstamp.com/play_store_512.png"
 DefaultContentLanguage = "en"
 # [languages]
 # config/_default/languages.toml
 
 # [menus]
 # config/_default/menus/menu.xx.toml
+
+author.name = "Owen Stamp"
+introDescription = "The blog of me"
+
 
 [taxonomies]
 category = "categories"
